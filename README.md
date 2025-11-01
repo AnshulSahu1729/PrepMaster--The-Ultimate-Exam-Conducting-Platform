@@ -9,13 +9,17 @@ How to run the Application:
 1. First run the UploadDatabase.py file
 2. Then Run Main.py file
 
+                                                                                                                                    
 
    Teacher's Login -->
-                       Username:@PMSSir
-                       Password:IOC@100
+   
+       Username:@PMSSir
+       Password:IOC@100
 
 
-   Test Ids: T128560
+   Test Ids:    
+
+             T128560
    
              T128561
    
