@@ -8,8 +8,11 @@ Its makes the process of conducting the test and evaluating the marks faster and
 How to run the Application:
 1. First run the UploadDatabase.py file
 2. Then Run Main.py file
+
+
    Teacher's Login --> Username:@PMSSir
                        Password:IOC@100
+
 
    Test Ids: T128560
              T128561
